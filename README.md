@@ -51,8 +51,8 @@ Ecoleta é um projeto que visa ajudar pessoas a encontrarem pontos de coleta de 
 ### 📱 Mobile
 
 <p align="center">
-    <img alt="Home" title="Home" src=".github/images/mobile/home.jpg" width="45%" />
-    <img alt="Points" title="Points" src=".github/images/mobile/points.jpg" width="45%" />
+    <img alt="Home" title="Home" src=".github/images/mobile/home.jpg" width="35%" />
+    <img alt="Points" title="Points" src=".github/images/mobile/points.jpg" width="35%" />
 </p>
 
 ## 🚀 Tecnologias
