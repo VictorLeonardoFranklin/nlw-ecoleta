@@ -34,7 +34,7 @@
 
 ## 💻 Projeto
 
-Ecoleta é um projeto que visa ajudar pessoas a encontrarem pontos de coleta de forma eficiente.
+O projeto, chamado Ecoleta, é um projeto desenvolvido basedo na semana internacional do meio ambiente. Possibilitando encontrar uma forma de conectar pessoas à empresas que coletam resíduos que não devem ser descartados no meio ambiente (Pilhas e baterias, óleo de cozinha etc...).
 
 ## 📷 Imagens
 
@@ -55,16 +55,19 @@ Ecoleta é um projeto que visa ajudar pessoas a encontrarem pontos de coleta de 
     <img alt="Points" title="Points" src=".github/images/mobile/points.jpg" width="35%" />
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias utilizadas
+
+Em relação ao layout, foi utilizado o [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/) para sua concepção.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
+- [TypeScript][typescript]
 - [Expo](https://expo.io/)
-
-
+- [Knex][knex]
+- [Express][express]
 
 ---
 
