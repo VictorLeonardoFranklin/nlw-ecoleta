@@ -64,10 +64,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
-- [TypeScript][typescript]
+- [TypeScript][https://www.typescriptlang.org/]
 - [Expo](https://expo.io/)
-- [Knex][knex]
-- [Express][express]
+- [Knex][http://knexjs.org/]
 
 ---
 
