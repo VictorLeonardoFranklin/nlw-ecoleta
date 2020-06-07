@@ -18,11 +18,11 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorLeonardoFranklin/nlw-ecoleta?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/VictorLeonardoFranklin/ecoleta">
-  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/VictorLeonardoFranklin/ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/VictorLeonardoFranklin/nlw-ecoleta">
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/VictorLeonardoFranklin/nlw-ecoleta">
   
   <a href="https://github.com/VictorLeonardoFranklin/ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorFranklin/ecoleta">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorFranklin/nlw-ecoleta">
   </a>
 	
   <a href="https://www.linkedin.com/in/victor-franklin-69412a5a/">  
@@ -50,8 +50,6 @@ Ecoleta é um projeto que visa ajudar pessoas a encontrarem pontos de coleta de 
 
 ### 📱 Mobile
 
-'
-
 <p align="center">
     <img alt="Home" title="Home" src=".github/images/mobile/home.jpg" width="45%" />
     <img alt="Points" title="Points" src=".github/images/mobile/points.jpg" width="45%" />
@@ -70,4 +68,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Feito com 💜 por Victor Franklin: 
+Feito com 💜 por Victor Franklin
