@@ -17,8 +17,7 @@
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorLeonardoFranklin/nlw-ecoleta?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/VictorLeonardoFranklin/nlw-ecoleta">
+  
   <img alt="Code size" src="https://img.shields.io/github/languages/code-size/VictorLeonardoFranklin/nlw-ecoleta">
   
   <a href="https://github.com/VictorLeonardoFranklin/nlw-ecoleta/commits/master">
