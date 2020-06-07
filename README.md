@@ -61,13 +61,10 @@ Para instalar o servidor que conecta-se com o banco de dados e disponibiliza os 
 ```bash
 $ cd nlw-ecoleta/server
 $ npm instal
-# Note que o comando anterior pode demorar um pouco dependendo da velocidade da sua conexão com à internet
 $ npm knex:migrate
 $ npm knex:seed
 $ npm run dev
 ```
-
-Não feche o terminal, pois o programa finalizará sua execução.
 
 ### Preparação da web
 
@@ -76,11 +73,8 @@ Para instalar o servidor que fornece as páginas web, abra um novo terminal e mo
 ```bash
 $ cd nlw-ecoleta/web
 $ npm install
-# Note que o comando anterior pode demorar um pouco dependendo da velocidade da sua conexão com à internet
 $ npm start
 ```
-
-Não feche o terminal, pois o programa finalizará sua execução.
 
 ### Prepração do app para dispositivo móvel
 
@@ -89,13 +83,9 @@ Para instalar o app para dispositivo móvel, abra um novo terminal e mova-se par
 ```bash
 $ cd nlw-ecoleta/mobile
 $ npm install
-# Note que o comando anterior pode demorar um pouco dependendo da velocidade da sua conexão com à internet
-# É necessário instalar também as seguintes fontes utilizadas no projeto, através do expo
 $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 $ npm start
 ```
-
-Não feche o terminal, pois o programa finalizará sua execução.
 
 Uma janela deve ser aberta no seu navegador com as informações para conectar-se a aplicação.
 
