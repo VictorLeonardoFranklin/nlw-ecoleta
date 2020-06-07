@@ -48,7 +48,7 @@ Abra um terminal e digite:
 
 ```bash
 $ git clone https://github.com/VictorLeonardoFranklin/nlw-ecoleta
-$ cd nlw-01
+$ cd nlw-ecoleta
 ```
 
 ### Sem o GIT Instalado
