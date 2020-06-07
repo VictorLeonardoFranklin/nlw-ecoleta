@@ -109,11 +109,6 @@ Mesmo reiniciando sozinho, o servidor web precisará ser reiniciado manualmente 
 Para acessar a página web, digite no seu browser o endereço IP e a porta configurada no arquivo de configuração.
 Para acessar o aplicativo móvel, instale o aplicativo [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) e escaneie o QRCode demonstrado na página. Caso não consiga, tente conectar-se diretamente através do endereço demonstrado na janela do navegador aberta no passo anterior.
 
-## Licença
-
-Como este projeto foi nos dado com carinho pela [RocketSeat](https://rocketseat.com.br/), ele também está disponível neste repositório gratuitamente para todos através da licença MIT.
-
-
 ## 📷 Imagens
 
 ### 🖥️ Desktop
