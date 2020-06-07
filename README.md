@@ -21,7 +21,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/VictorLeonardoFranklin/nlw-ecoleta">
   <img alt="Code size" src="https://img.shields.io/github/languages/code-size/VictorLeonardoFranklin/nlw-ecoleta">
   
-  <a href="https://github.com/VictorLeonardoFranklin/ecoleta/commits/master">
+  <a href="https://github.com/VictorLeonardoFranklin/nlw-ecoleta/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorFranklin/nlw-ecoleta">
   </a>
 	
