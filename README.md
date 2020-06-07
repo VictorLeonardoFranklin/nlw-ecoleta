@@ -16,12 +16,12 @@
 </h2>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorFranklin/omnistack-11?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VictorLeonardoFranklin/omnistack-11?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/VictorFranklin/ecoleta">
   <img alt="Code size" src="https://img.shields.io/github/languages/code-size/VictorFranklin/ecoleta">
   
-  <a href="https://github.com/VictorFranklin/ecoleta/commits/master">
+  <a href="https://github.com/VictorLeonardoFranklin/ecoleta/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VictorFranklin/ecoleta">
   </a>
 	
