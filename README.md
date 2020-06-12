@@ -31,7 +31,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-## 💻 Projeto
+## 💻 	Projeto
 
 O projeto, chamado Ecoleta, é um projeto desenvolvido basedo na semana internacional do meio ambiente. Possibilitando encontrar uma forma de conectar pessoas à empresas que coletam resíduos que não devem ser descartados no meio ambiente (Pilhas e baterias, óleo de cozinha etc...).
 
@@ -98,9 +98,9 @@ Mesmo reiniciando sozinho, o servidor web precisará ser reiniciado manualmente 
 Para acessar a página web, digite no seu browser o endereço IP e a porta configurada no arquivo de configuração.
 Para acessar o aplicativo móvel, instale o aplicativo [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) e escaneie o QRCode demonstrado na página. Caso não consiga, tente conectar-se diretamente através do endereço demonstrado na janela do navegador aberta no passo anterior.
 
-## 📷 Imagens
+## 📷 	Imagens
 
-### 🖥️ Desktop
+### 🖥️	 Desktop
 
 <h1 align="center">
     <img alt="Home" title="Home" src=".github/images/web/home.png" width="600px" />
@@ -110,7 +110,7 @@ Para acessar o aplicativo móvel, instale o aplicativo [Expo](https://play.googl
     <img alt="Create Point" title="Create Point" src=".github/images/web/create-point.png" width="600px" />
 </h1>
 
-### 📱 Mobile
+### 📱	Mobile
 
 <p align="center">
     <img alt="Home" title="Home" src=".github/images/mobile/home.jpg" width="35%" />
