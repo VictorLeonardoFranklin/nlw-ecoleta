@@ -130,6 +130,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [Knex](http://knexjs.org/)
 
----
-
-Feito com 💜 por Victor Franklin
+## Autor
+[<img src="https://avatars0.githubusercontent.com/u/65988709?v=3&s=115" width="155"><br><sub>@VictorLeonardoFranklin</sub>](https://github.com/VictorLeonardoFranklin) |
+| :---: |
